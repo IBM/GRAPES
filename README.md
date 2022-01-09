@@ -10,8 +10,11 @@ arXiv: https://arxiv.org/abs/2104.11604
 
 # Requirements
 We run the experiments with the following:
+
 Numpy framework: Python 3.9.5, Numpy 1.19.5, Keras 2.5.0
+
 Tensorflow framework: Python 3.7.9, Tensorflow 1.15.0
+
 Pytorch framework: Python 3.8.11, PyTorch 1.9.1.
 
 # Numpy experiments  
